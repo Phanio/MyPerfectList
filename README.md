@@ -1,6 +1,6 @@
 # What is this ?
 
-MyPerfectList est une Plateforme WEB regroupant différentes collections existantes (IMDb, MAL, etc) et permettant d'en créer d'autres accessible à tous en ayant pour but de centraliser les données des utilisateurs de ses différents sites. Elle permet donc de ne plus avoir besoin d'utiliser plusieurs liens vers ces différents sites afin de connaitre les gouts d'une personne et de pouvoir avoir une vue d'ensemble de tous sur les sites de base de données auquel l'utilisateur est membre ainsi que de voir ses listes personnalisés.
+MyPerfectList est une Plateforme WEB regroupant différentes collections existantes (IMDb, MAL, etc) et permettant d'en créer d'autres accessible à tous en ayant pour but de centraliser les données des utilisateurs de ses différents sites. Elle permet donc de ne plus avoir besoin d'utiliser plusieurs liens vers ces différents sites afin de connaitre les gouts d'une personne et de pouvoir avoir une vue d'ensemble de tous sur les sites de base de données auquel l'utilisateur est membre ainsi que de voir ses listes personnalisées.
 
 # Requirements
 
